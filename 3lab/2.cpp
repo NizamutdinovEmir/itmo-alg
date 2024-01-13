@@ -73,12 +73,12 @@ int main() {
     cin >> operation;
     if (operation == '+') {
       cin >> message;
-      l.push_start(message);
+      l.push_back(message);
     }
-    else if (operation == '-') {
+    else{
       l.printtop();
-      l.delete_start();
       cout << '\n';
+      l.delete_start();
     }
   }
   return 0;
