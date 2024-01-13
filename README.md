@@ -46,9 +46,7 @@
 ### Бинарное дерево поиска
 - A. [Ёлки-палки 2.0](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/1.cpp)
 - B. [Предки - наше всё](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/2.cpp)
-- C.
-
- [И здесь К-ый максимум...](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/3.cpp)
+- C. [И здесь К-ый максимум...](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/3.cpp)
 - D. [Ёлки-палки](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/4.cpp)
 - E. [Три друга](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/5.cpp)
 - F. [Подельник](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/5lab/6.cpp)
