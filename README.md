@@ -65,3 +65,60 @@
 - C. [Облачный кризис](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/7lab/3.cpp)
 - D. [Тик-ток! Пост-Панк!](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/7lab/4.cpp)
 - E. [Бедный Ваня](https://github.com/NizamutdinovEmir/itmo-alg-1sem/blob/main/7lab/5.cpp)
+
+# Мои лаб.работы за 2 семестр АиСД Итмо
+## Лабораторная АиСД ИТМО №8
+### Графы - bfs, dfs
+- A. [Ярмарка судьбы](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/1.cpp)
+- B. [Месть Менады](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/2.cpp)
+- C. [Порванное ожерелье](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/3.cpp)
+- D. [Песня Сирин](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/4.cpp)
+- E. [Беги и не возвращайся](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/5.cpp)
+- F. [Древняя карта архипелага](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/7.cpp)
+- H. [Амрита](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/8.cpp)
+- H. [Гидра или не гидра, вот в чём вопрос...](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/8lab/9.cpp)
+
+## Лабораторная АиСД ИТМО №9
+### Графы
+- A. [Конец или Начало](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/1.cpp)
+- С. [Если я вас больше не увижу](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/2.cpp)
+- C. [Любовь жестока](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/3.cpp)
+- D. [You can, Ken!](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/4.cpp)
+- E. [Ничто нигде и никогда](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/5.cpp)
+- F. [Начало или Конец](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/9lab/6.cpp)
+
+## Лабораторная АиСД ИТМО №10
+### Графы
+- A. [АРАТАКИ РЕЙГЕН](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/1.cpp)
+- B. [Истребители демонов](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/2.cpp)
+- C. [Ведьмина служба доставки](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/3.cpp)
+- D. [Очень яблок хочется...](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/4.cpp)
+- E. [Грязные делишки](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/5.cpp)
+- F. [Результат двух миллионов лет работы](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/6.cpp)
+- G. [Побег Поньо](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/7.cpp)
+- H. [Мугивары](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/10lab/8.cpp)
+
+## Лабораторная АиСД ИТМО №11
+### Графы
+- A. [Борьба за сахар](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/11lab/1.cpp)
+- B. [Шёпот далёких звёзд](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/11lab/2.cpp)
+- C. [А можно я с тобой?](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/11lab/3.cpp)
+- D. [Я не продаюсь, но...](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/11lab/4.cpp)
+- E. [Нighway of a lifetime](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/11lab/5.cpp)
+
+## Лабораторная АиСД ИТМО №12
+### Хэши
+- C. [Что же такое множество?](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/12lab/1.cpp)
+- D. [Тест](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/12lab/2.cpp)
+- E. [Биба и Боба](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/12lab/3.cpp)
+- G. [Катин лес](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/12lab/4.cpp)
+
+## Лабораторная АиСД ИТМО №13
+### Строки
+- A. [1984](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/1.cpp)
+- B. [Хогвартс](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/2.cpp)
+- C. [Лиана Клубина](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/3.cpp)
+- E. [Junior-библиотекарь](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/4.cpp)
+- F. [Секретная служба](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/5.cpp)
+- G. [Покер](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-2sem/itmo-alg-2sem/13lab/6.cpp)
+
