@@ -13,7 +13,7 @@
 ### Сортировки
 - A. [Дедовы тапки](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/1.cpp)
 - B. [Паттинсон](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/2.cpp)
-- C. [Любовь жестока](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg1sem/2lab/3.cpp)
+- C. [Любовь жестока](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/3.cpp)
 - D. [Анти-QuickSort](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/4.cpp)
 - E. [Рейтинг](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/5.cpp)
 - F. [Нейроночка](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/2lab/6.cpp)
@@ -21,12 +21,12 @@
 
 ## Лабораторная АиСД ИТМО №3
 ### Односвязные и двусвязные списки / бинпоиск
-- A. [Рейв и Тектоник](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/1.cpp)
+- A. [Рейв и Тектоник](hhttps://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/1.cpp)
 - B. [Юность в сапогах](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/2.cpp)
 - C. [т.о.ч.к.а.](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/3.cpp)
 - D. [Сокровища древних пирамид](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/4.cpp)
 - F. [Делу время - потехе час!](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/5.cpp)
-- G. [Спасение земель Русских](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg/alg-1sem/3lab/6.cpp)
+- G. [Спасение земель Русских](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/6.cpp)
 - H. [Остаться в живых](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/7.cpp)
 - I. [Давай поженимся](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/8.cpp)
 
