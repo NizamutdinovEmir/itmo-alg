@@ -21,7 +21,7 @@
 
 ## Лабораторная АиСД ИТМО №3
 ### Односвязные и двусвязные списки / бинпоиск
-- A. [Рейв и Тектоник](hhttps://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/1.cpp)
+- A. [Рейв и Тектоник](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/1.cpp)
 - B. [Юность в сапогах](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/2.cpp)
 - C. [т.о.ч.к.а.](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/3.cpp)
 - D. [Сокровища древних пирамид](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/4.cpp)
