@@ -26,7 +26,7 @@
 - C. [т.о.ч.к.а.](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/3lab/3.cpp)
 - D. [Сокровища древних пирамид](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/3lab/4.cpp)
 - F. [Делу время - потехе час!](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/3lab/5.cpp)
-- G. [Спасение земель Русских](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg-1sem/3lab/6.cpp)
+- G. [Спасение земель Русских](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/alg/3lab/6.cpp)
 - H. [Остаться в живых](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/3lab/7.cpp)
 - I. [Давай поженимся](https://github.com/NizamutdinovEmir/itmo-alg/blob/main/3lab/8.cpp)
 
